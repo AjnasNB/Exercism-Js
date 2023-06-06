@@ -3,4 +3,5 @@
 
 | Problem Name                        | Language    | Level    |  Date            |
 | ----------------------------------- | ----------- | :------: |  :-----------:   |
-| Hello World                         | JS          | Low      |   June 6,2023    |
+| Hello World                         | JS          | Easy     |   June 6,2023    |
+| Lucian's Luscious Lasagna           | JS          | Easy     |   June 6,2023    |
