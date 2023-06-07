@@ -6,3 +6,4 @@
 | Hello World                         | JS          | Easy     |   June 6,2023    |
 | Lucian's Luscious Lasagna           | JS          | Easy     |   June 6,2023    |
 | Annalyn's Infiltration              | JS          | Easy     |   June 6,2023    |
+| Freelancer Rates                    | JS          | Easy     |   June 7,2023    |
