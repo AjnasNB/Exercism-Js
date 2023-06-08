@@ -10,4 +10,4 @@ Sl.no| Problem Name                        | Language    | Level    |  Date     
   5  | Door policy                         | JS          | Easy     |   June 7,2023    |
   6  | Enchantment                         | JS          | Easy     |   June 7,2023    |
   7  | Vehicle-purchase                    | JS          | Easy     |   June 7,2023    |
-     | Bird-Watcher                        | JS          | Easy     |   June 7,2023    |
+  8  | Bird-Watcher                        | JS          | Easy     |   June 7,2023    |
