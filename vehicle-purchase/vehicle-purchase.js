@@ -5,7 +5,10 @@ export function needsLicense(vehicle){
         
 }
 export function chooseVehicle(vehicle1,vehicle2){
-      return  vehicle1<vehicle2? vehicle1+" is clearly the better choice.":  vehicle2+" is clearly the better choice.";
+        if(vehicle1<vehicle2)
+         {return vehicle1+" is clearly the better choice."} 
+        else
+         return vehicle2+" is clearly the better choice.";
 }
 export function calculateResellPrice(price,age){
   if(age<3){
