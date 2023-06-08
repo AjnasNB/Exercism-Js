@@ -9,3 +9,4 @@
 | Freelancer Rates                    | JS          | Easy     |   June 7,2023    |
 | Door policy                         | JS          | Easy     |   June 7,2023    |
 | Enchantment                         | JS          | Easy     |   June 7,2023    |
+| Vehicle-purchase                    | JS          | Easy     |   June 7,2023    |
