@@ -13,3 +13,4 @@ Sl.no| Problem Name                        | Language    | Level    |  Date     
   8  | Bird-Watcher                        | JS          | Easy     |   June 8,2023    |
   9  | Mixed-fruit                         | JS          | Easy     |   June 8,2023    |
   9  | Lucky-number                        | JS          | Easy     |   June 9,2023    |
+ 10  | elyses-analytic-enchantments        | JS          | Easy     |   June 9,2023    |
