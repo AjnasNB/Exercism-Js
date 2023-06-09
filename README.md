@@ -12,5 +12,5 @@ Sl.no| Problem Name                        | Language    | Level    |  Date     
   7  | Vehicle-purchase                    | JS          | Easy     |   June 8,2023    |
   8  | Bird-Watcher                        | JS          | Easy     |   June 8,2023    |
   9  | Mixed-fruit                         | JS          | Easy     |   June 8,2023    |
-  9  | Lucky-number                        | JS          | Easy     |   June 9,2023    |
- 10  | elyses-analytic-enchantments        | JS          | Easy     |   June 9,2023    |
+ 10  | Lucky-number                        | JS          | Easy     |   June 9,2023    |
+ 11  | elyses-analytic-enchantments        | JS          | Easy     |   June 9,2023    |
