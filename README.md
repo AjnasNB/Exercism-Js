@@ -14,4 +14,4 @@ Sl.no| Problem Name                        | Language    | Level    |  Date     
   9  | Mixed-fruit                         | JS          | Easy     |   June 8,2023    |
  10  | Lucky-number                        | JS          | Easy     |   June 9,2023    |
  11  | elyses-analytic-enchantments        | JS          | Easy     |   June 9,2023    |
- 12  | Lucky-number                        | JS          | Easy     |   June 9,2023    |
+ 12  | Elyses Destructured Enchantments    | JS          | Easy     |   June 9,2023    |
