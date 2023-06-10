@@ -15,3 +15,6 @@ Sl.no| Problem Name                        | Language    | Level    |  Date     
  10  | Lucky-number                        | JS          | Easy     |   June 9,2023    |
  11  | elyses-analytic-enchantments        | JS          | Easy     |   June 9,2023    |
  12  | Elyses Destructured Enchantments    | JS          | Easy     |   June 9,2023    |
+ 13  | Elyses Looping      Enchantments    | JS          | Easy     |   June 10,2023    |
+12  | Elyses Destructured Enchantments    | JS          | Easy     |   June 9,2023    |
+12  | Elyses Destructured Enchantments    | JS          | Easy     |   June 9,2023    |
