@@ -18,3 +18,5 @@ Sl.no| Problem Name                        | Language    | Level                
  13  | Elyses Looping      Enchantments    | JS          | Learning exercise     |   June 10,2023   |
  14  | Amusement park                      | JS          | Learning exercise     |   June 10,2023   |
  15  | coordinate-transformation           | JS          | Learning exercise     |   June 10,2023   |
+ 16  | Fruit picker                        | JS          | Learning exercise     |   June 10,2023   |
+
