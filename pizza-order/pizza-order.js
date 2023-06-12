@@ -11,8 +11,32 @@
  * @returns {number} the price of the pizza
  */
 export function pizzaPrice(pizza, ...extras) {
-  throw new Error('Please implement the pizzaPrice function');
-}
+  const  pizzas={
+    Margherita:7,
+    Caprese:9,
+    Formaggio:10
+
+  }
+   
+
+
+  let total=pizzas[pizza]
+  extras.forEach(extras=>{
+    if(extras==='ExtraSauce'){
+      total+=1
+    }
+    else if( extras==='ExtraToppings' ){
+      total+=2
+    }
+    
+
+  }
+
+  
+  )
+  return total;
+
+} 
 
 /**
  * Calculate the prize of the total order, given individual orders
@@ -21,5 +45,16 @@ export function pizzaPrice(pizza, ...extras) {
  * @returns {number} the price of the total order
  */
 export function orderPrice(pizzaOrders) {
-  throw new Error('Please implement the orderPrice function');
+
+  let totals=0
+
+
+  pizzaOrders.forEach((pizza)=>{
+    totals+=pizzaPrice(pizza.pizza,...pizza.extras)
+    
+    
+
+
+  })
+  return totals
 }
