@@ -27,15 +27,15 @@ export class TranslationService {
    * @returns {Promise<string>}
    */
   free(text) {
-    
     return this.api.fetch(text).then((response) => {
       if (response.translation) {
         return response.translation;
       } else {
-        throw new Error(response.error);
+        throw new Error("Translation not found");
       }
     }
     );
+
   }
 
 
@@ -66,26 +66,7 @@ export class TranslationService {
    * @returns {Promise<void>}
    */
   request(text) {
-    
-    return new Promise((resolve, reject) => {
-      const retry = () => {
-        this.api.request(text).then((response) => {
-          if (response.accepted) {
-            resolve();
-          } else {
-            setTimeout(retry, 1000);
-          }
-        });
-      };
-      
-      retry();
-    }
-    );
-
-
-
-
-
+  
 
 
   }
@@ -101,19 +82,7 @@ export class TranslationService {
    * @returns {Promise<string>}
    */
   premium(text, minimumQuality) {
-
-    return this.api.fetch(text).then((response) => {
-      if (response.translation) {
-        if (response.quality >= minimumQuality) {
-          return response.translation;
-        } else {
-          throw new QualityThresholdNotMet(text);
-        }
-      } else {
-        return this.request(text).then(() => this.premium(text, minimumQuality));
-      }
-    }
-    );
+    
 
 
   }
