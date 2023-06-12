@@ -17,7 +17,7 @@ Sl.no| Problem Name                        | Language    | Level                
  12  | Elyses Destructured Enchantments    | JS          | Learning exercise     |   June 9,2023    |
  13  | Elyses Looping      Enchantments    | JS          | Learning exercise     |   June 10,2023   |
  14  | Amusement park                      | JS          | Learning exercise     |   June 10,2023   |
- 15  | Pizza Order                         | JS          | Learning exercise     |   June 11,2023   |
  15  | coordinate-transformation           | JS          | Learning exercise     |   June 10,2023   |
- 16  | Fruit picker                        | JS          | Learning exercise     |   June 10,2023   |
+ 16  | Fruit picker                        | JS          | Learning exercise     |   June 11,2023   |
+ 17  | Pizza Order                         | JS          | Learning exercise     |   June 11,2023   |
 
