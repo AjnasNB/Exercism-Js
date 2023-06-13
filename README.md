@@ -23,6 +23,8 @@ Sl.no| Problem Name                        | Language    | Level                
  18  | Translation service                 | JS          | Learning exercise     |   June 11,2023   |
  19  | High Score Board                    | JS          | Learning exercise     |   June 12,2023   |
  20  | Ozan's playlist                     | JS          | Learning exercise     |   June 12,2023   |
+ 21  | Lasagna master                      | JS          | Learning exercise     |   June 12,2023   |
+
 
 
 
