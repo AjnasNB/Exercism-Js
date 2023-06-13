@@ -20,4 +20,7 @@ Sl.no| Problem Name                        | Language    | Level                
  15  | coordinate-transformation           | JS          | Learning exercise     |   June 10,2023   |
  16  | Fruit picker                        | JS          | Learning exercise     |   June 11,2023   |
  17  | Pizza Order                         | JS          | Learning exercise     |   June 11,2023   |
+ 18  | Translation service                 | JS          | Learning exercise     |   June 11,2023   |
+
+
 
