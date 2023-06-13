@@ -58,7 +58,7 @@ export function updateScore(scoreBoard, player, points) {
  * @param {Record<string, number>} scoreBoard
  * @returns {Record<string, number>} updated score board
  */
-export function applyMonPleasedayBonus(scoreBoard) {
+export function applyMondayBonus(scoreBoard) {
     for (let player in scoreBoard){
       if(scoreBoard[player]!=null)
         scoreBoard[player]+=100;
@@ -74,5 +74,6 @@ return scoreBoard
  * @returns {number} normalized score
  */
 export function normalizeScore(params) {
-  throw new Error('Please implement the normalizeScore function');
+  return params.normalizeFunction(params.score);
+
 }
