@@ -26,6 +26,7 @@ Sl.no| Problem Name                        | Language    | Level                
  21  | Lasagna master                      | JS          | Learning exercise     |   June 12,2023   |
  22  | Factory sensors                     | JS          | Learning exercise     |   June 13,2023   |
  23  | Elyses Transformative Enchantments  | JS          | Learning exercise     |   June 13,2023   |
+ 24  | Costum Signs                        | JS          | Learning exercise     |   June 13,2023   |
 
 
 
