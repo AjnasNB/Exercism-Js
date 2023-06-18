@@ -28,7 +28,7 @@ Sl.no| Problem Name                        | Language    | Level                
  23  | Elyses Transformative Enchantments  | JS          | Learning exercise     |   June 13,2023   |
  24  | Costum Signs                        | JS          | Learning exercise     |   June 13,2023   |
  25  | Windowing system                    | JS          | Learning exercise     |   June 14,2023   |
-
+ 26  | Regular Chatbot                     | JS          | Learning exercise     |   June 14,2023   |
 
 
 
