@@ -29,6 +29,7 @@ Sl.no| Problem Name                        | Language    | Level                
  24  | Costum Signs                        | JS          | Learning exercise     |   June 13,2023   |
  25  | Windowing system                    | JS          | Learning exercise     |   June 14,2023   |
  26  | Regular Chatbot                     | JS          | Learning exercise     |   June 14,2023   |
+ 27  | Two fer                             | JS          | Easy                  |   June 14,2023   |
 
 
 
