@@ -1,4 +1,7 @@
 /// <reference path="./global.d.ts" />
+
+
+
 // @ts-check
 //
 // The lines above enable type checking for this file. Various IDEs interpret
@@ -66,10 +69,18 @@ export class TranslationService {
    * @returns {Promise<void>}
    */
   request(text) {
+    const pr=()=> new Promise((resolve, reject) => {
+      this.api.request(text, (error) => {
+        error ? reject(error) : resolve(undefined);
+      });
+
+    });
+    return pr().catch(() => pr()).catch(() => pr());
+  }
   
 
 
-  }
+  
 
   /**
    * Retrieves the translation for the given text
@@ -82,10 +93,18 @@ export class TranslationService {
    * @returns {Promise<string>}
    */
   premium(text, minimumQuality) {
-    
-
-
+return this.api.fetch(text).catch(() => {
+  return this.request(text).then(() => this.api.fetch(text));
+})
+.then((response) => {
+  if(response.quality >= minimumQuality){
+    return response.translation;
+  }else{
+    throw new QualityThresholdNotMet(text);
   }
+});
+}
+  
 }
 
 /**

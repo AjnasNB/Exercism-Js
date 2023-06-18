@@ -32,7 +32,7 @@ export function buildBirthdaySign(age) {
 
 /**
  * Build a graduation sign that includes multiple lines.
- *
+ *  
  * @param {string} name
  * @param {number} year
  *
