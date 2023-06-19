@@ -2,10 +2,10 @@
 // This is only a SKELETON file for the 'Resistor Color Duo' exercise. It's been provided as a
 // convenience to get you started writing code faster.
 //
-export const colorCode = arr=["black","brown","red","orange","yellow","green","blue","violet","grey","white"];
+export const colorCode = ["black","brown","red","orange","yellow","green","blue","violet","grey","white"];
 
 
-export const decodedValue = () => {
+export const decodedValue = ([c1,c2]) => {
   
-  return arr.indexOf(arguments[0][0])*10+arr.indexOf(arguments[0][1]);
+  return colorCode.indexOf(c1)*10+colorCode.indexOf(c2);
 };
