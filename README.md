@@ -30,6 +30,7 @@ Sl.no| Problem Name                        | Level                 |  Date      
  25  | Windowing system                    | Learning exercise     |   June 14,2023   |
  26  | Regular Chatbot                     | Learning exercise     |   June 14,2023   |
  27  | Two fer                             | Easy                  |   June 14,2023   |
+ 28  | [Resistor color](./resistor-color/) | Easy                  |   June 18,2023   | 
 
 
 
