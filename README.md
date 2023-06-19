@@ -31,7 +31,7 @@ Sl.no| Problem Name                                              | Level        
  26  | [Regular Chatbot](./regular-chatbot/)                     | Learning exercise     |   June 14,2023   |
  27  | [Two fer](./two-fer/)                                     | Easy                  |   June 14,2023   |
  28  | [Resistor color](./resistor-color/)                       | Easy                |   June 18,2023   | 
- 28  | [Resistor color Duo](./resistor-color-duo/)               | Easy                |   June 18,2023   | 
+ 29  | [Resistor color Duo](./resistor-color-duo/)               | Easy                |   June 18,2023   | 
 
 
 
