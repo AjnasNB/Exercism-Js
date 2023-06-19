@@ -9,7 +9,7 @@ Sl.no| Problem Name                                              | Level        
   4  | [Freelancer Rates](./freelancer-rates/)                                          | Learning exercise     |   June 7,2023    |
   5  | [Door policy](./poetry-club-door-policy/)                                               | Learning exercise     |   June 7,2023    |
   6  | [Enchantment](./elyses-enchantments/)                                               | Learning exercise     |   June 7,2023    |
-  7  | V[ehicle-purchase](./vehicle-purchase/)                                          | Learning exercise     |   June 8,2023    |
+  7  | [Vehicle-purchase](./vehicle-purchase/)                                          | Learning exercise     |   June 8,2023    |
   8  | [Bird-Watcher ](./bird-watcher/)                                             | Learning exercise     |   June 8,2023    |
   9  | [Mixed-fruit](./mixed-juices/)                                               | Learning exercise     |   June 8,2023    |
  10  | [Lucky-number](./lucky-numbers/)                                              | Learning exercise     |   June 9,2023    |
