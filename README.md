@@ -25,9 +25,9 @@ Sl.no| Problem Name                                              | Level        
  20  | Ozan's playlist                                           | Learning exercise     |   June 12,2023   |
  21  | Lasagna master                                            | Learning exercise     |   June 12,2023   |
  22  | Factory sensors                                           | Learning exercise     |   June 13,2023   |
- 23  | Elyses Transformative Enchantments                        | Learning exercise     |   June 13,2023   |
- 24  | Costum Signs                                              | Learning exercise     |   June 13,2023   |
- 25  | Windowing system                                          | Learning exercise     |   June 14,2023   |
+ 23  | [Elyses Transformative Enchantments](./elyses-transformative-enchantments/)| Learning exercise     |   June 13,2023   |
+ 24  | [Costum Signs ](./custom-signs/)                          | Learning exercise     |   June 13,2023   |
+ 25  | [Windowing system](./windowing-system/)                   | Learning exercise     |   June 14,2023   |
  26  | [Regular Chatbot](./regular-chatbot/)                     | Learning exercise     |   June 14,2023   |
  27  | [Two fer](./two-fer/)                                     | Easy                  |   June 14,2023   |
  28  | [Resistor color](./resistor-color/) | Easy                |   June 18,2023   | 
