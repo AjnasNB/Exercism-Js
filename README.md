@@ -1,9 +1,9 @@
 ﻿# Exercism-Js
 
 
-Sl.no| Problem Name                                              | Level                 |  Date            |
- --- | ------------------------------------------------------    | :----------------:    |  :-----------:   |
-  1  | [Lucian's Luscious Lasagna](./lasagna/)                                 | Learning exercise     |   June 6,2023    |
+Sl.no| Problem Name                                                                  | Level                 |  Date            |
+ --- | ------------------------------------------------------                        | :----------------:    |  :-----------:   |
+  1  | [Lucian's Luscious Lasagna](./lasagna/)                                   | Learning exercise     |   June 6,2023    |
   2  | [Hello World](./hello-world/)                                               | Learning exercise     |   June 6,2023    |
   3  | [Annalyn's Infiltration](./annalyns-infiltration/)                                    | Learning exercise     |   June 6,2023    |
   4  | [Freelancer Rates](./freelancer-rates/)                                          | Learning exercise     |   June 7,2023    |
@@ -26,13 +26,13 @@ Sl.no| Problem Name                                              | Level        
  21  |[ Lasagna master](./lasagna-master/)                                            | Learning exercise     |   June 12,2023   |
  22  | [Factory sensors](./factory-sensors/)                        | Learning exercise     |   June 13,2023   |
  23  | [Elyses Transformative Enchantments](./elyses-transformative-enchantments/)| Learning exercise     |   June 13,2023   |
- 24  | [Costum Signs ](./custom-signs/)                          | Learning exercise     |   June 13,2023   |
- 25  | [Windowing system](./windowing-system/)                   | Learning exercise     |   June 14,2023   |
- 26  | [Regular Chatbot](./regular-chatbot/)                     | Learning exercise     |   June 14,2023   |
- 27  | [Two fer](./two-fer/)                                     | Easy                  |   June 14,2023   |
- 28  | [Resistor color](./resistor-color/)                       | Easy                |   June 18,2023   | 
- 29  | [Resistor color Duo](./resistor-color-duo/)               | Easy                |   June 18,2023   | 
- 30  | [Gigasecond](./gigasecond/)                               | Easy                |   June 18,2023   | 
+ 24  | [Costum Signs ](./custom-signs/)                                              | Learning exercise     |   June 13,2023   |
+ 25  | [Windowing system](./windowing-system/)                                       | Learning exercise     |   June 14,2023   |
+ 26  | [Regular Chatbot](./regular-chatbot/)                                         | Learning exercise     |   June 14,2023   |
+ 27  | [Two fer](./two-fer/)                                                         | Easy                  |   June 14,2023   |
+ 28  | [Resistor color](./resistor-color/)                                           | Easy                |   June 18,2023   | 
+ 29  | [Resistor color Duo](./resistor-color-duo/)                                   | Easy                |   June 18,2023   | 
+ 30  | [Gigasecond](./gigasecond/)                                                   | Easy                |   June 18,2023   | 
 
 
 
