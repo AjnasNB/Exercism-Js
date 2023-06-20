@@ -1,30 +1,18 @@
 
 
+def check_alphabets(sentence):
+    # Convert the sentence to lowercase
+    sentence = sentence.lower()
 
+    # Remove spaces and punctuation marks
+    sentence = sentence.replace(" ", "").translate(str.maketrans("", "", string.punctuation))
 
+    # Check if all the letters of the alphabet are present
+    return set(sentence) == set(string.ascii_lowercase)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- const gigasecond = (date) => {
-    const gigasecond = 1000000000000;
-    const dateInMilliseconds = date.getTime();
-    console.log(dateInMilliseconds);
-    const gigasecondDate = new Date(dateInMilliseconds + gigasecond);
-    
-    console.log(dateInMilliseconds+"     "+gigasecondDate);
-    return gigasecondDate;
-  };
-  gigasecond(new Date(Date.UTC(2011, 3, 25)));
+# Example usage
+sentence = "The quick brown fox jumps over the lazy dog."
+if check_alphabets(sentence):
+    print("The sentence contains all the alphabets.")
+else:
+    print("The sentence does not contain all the alphabets.")

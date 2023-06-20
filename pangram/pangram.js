@@ -3,6 +3,14 @@
 // convenience to get you started writing code faster.
 //
 
-export const isPangram = () => {
-  throw new Error('Remove this statement and implement this function');
+export const isPangram = (string) => {
+  let alphabet = 'abcdefghijklmnopqrstuvwxyz';
+  let result = true;
+  for (let i = 0; i < alphabet.length; i++) {
+    if (!string.toLowerCase().includes(alphabet[i])) {
+      result = false;
+    }
+  }
+  return result;
+  
 };
