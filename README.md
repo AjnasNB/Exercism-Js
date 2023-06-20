@@ -33,7 +33,10 @@ Sl.no| Problem Name                                                             
  28  | [Resistor color](./resistor-color/)                                                | Easy                  |   June 18,2023   | 
  29  | [Resistor color Duo](./resistor-color-duo/)                                        | Easy                  |   June 18,2023   | 
  30  | [Gigasecond](./gigasecond/)                                                        | Easy                  |   June 18,2023   |
- 31  | [Rna transcription](./rna-transcription/)                                          | Easy                  |   June 18,2023   |  
+ 31  | [Rna transcription](./rna-transcription/)                                          | Easy                  |   June 18,2023   |
+ 32  | [Space ange](./space-age/)                                                         | Easy                  |   June 18,2023   |
+
+   
 
 
 
