@@ -34,8 +34,9 @@ Sl.no| Problem Name                                                             
  29  | [Resistor color Duo](./resistor-color-duo/)                                        | Easy                  |   June 18,2023   | 
  30  | [Gigasecond](./gigasecond/)                                                        | Easy                  |   June 18,2023   |
  31  | [Rna transcription](./rna-transcription/)                                          | Easy                  |   June 18,2023   |
- 32  | [Space age](./space-age/)                                                         | Easy                  |   June 18,2023   |
- 33  | [Pangram](./pangram/)                                                         | Easy                  |   June 18,2023   |
+ 32  | [Space age](./space-age/)                                                          | Easy                  |   June 18,2023   |
+ 33  | [Pangram](./pangram/)                                                              | Easy                  |   June 18,2023   |
+ 34  | [matrix](./matrix/)                                                                | Easy                  |   June 18,2023   |
 
    
 
