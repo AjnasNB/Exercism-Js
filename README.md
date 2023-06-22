@@ -36,4 +36,5 @@ Sl.no| Problem Name                                                             
  32  | [Space age](./space-age/)                                                          | Easy                  |   June 18,2023   |
  33  | [Pangram](./pangram/)                                                              | Easy                  |   June 18,2023   |
  34  | [matrix](./matrix/)                                                                | Easy                  |   June 18,2023   |
- 35  | [bob](./bob)                                                                       | Easy                  |   June 18,2023   |
+ 35  | [bob](./bob)                                                                       | Medium                |   June 18,2023   |
+ 36  | [Pascal's triangle](./pascals-triangle/)                                           | Medium                |   June 18,2023   |
