@@ -32,9 +32,9 @@ Sl.no| Problem Name                                                             
  28  | [Resistor color](./resistor-color/)                                                | Easy                  |   June 18,2023   |
  29  | [Resistor color Duo](./resistor-color-duo/)                                        | Easy                  |   June 18,2023   |
  30  | [Gigasecond](./gigasecond/)                                                        | Easy                  |   June 18,2023   |
- 31  | [Rna transcription](./rna-transcription/)                                          | Easy                  |   June 18,2023   |
- 32  | [Space age](./space-age/)                                                          | Easy                  |   June 18,2023   |
- 33  | [Pangram](./pangram/)                                                              | Easy                  |   June 18,2023   |
- 34  | [matrix](./matrix/)                                                                | Easy                  |   June 18,2023   |
- 35  | [bob](./bob)                                                                       | Medium                |   June 18,2023   |
- 36  | [Pascal's triangle](./pascals-triangle/)                                           | Medium                |   June 18,2023   |
+ 31  | [Rna transcription](./rna-transcription/)                                          | Easy                  |   June 19,2023   |
+ 32  | [Space age](./space-age/)                                                          | Easy                  |   June 19,2023   |
+ 33  | [Pangram](./pangram/)                                                              | Easy                  |   June 20,2023   |
+ 34  | [matrix](./matrix/)                                                                | Easy                  |   June 20,2023   |
+ 35  | [bob](./bob)                                                                       | Medium                |   June 22,2023   |
+ 36  | [Pascal's triangle](./pascals-triangle/)                                           | Medium                |   June 23,2023   |
