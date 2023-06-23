@@ -38,3 +38,4 @@ Sl.no| Problem Name                                                             
  34  | [matrix](./matrix/)                                                                | Easy                  |   June 20,2023   |
  35  | [bob](./bob)                                                                       | Medium                |   June 22,2023   |
  36  | [Pascal's triangle](./pascals-triangle/)                                           | Medium                |   June 23,2023   |
+ 37  | [Linked List](./linked-list/)                                                      | Medium                |   June 23,2023   | 
