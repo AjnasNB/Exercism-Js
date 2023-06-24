@@ -4,15 +4,28 @@
 //
 
 export class GradeSchool {
+  constructor() {
+    this._rosters = {};
+  }
+
   roster() {
-    throw new Error('Remove this statement and implement this function');
+    return  JSON.parse(JSON.stringify(this._rosters)) ;}
+
+  add(name,grade) {
+    if (this._rosters[grade]) {
+      this._rosters[grade].push(name);
+    } else {
+      this._rosters[grade] = [name];
+    }
+    this._rosters[grade].sort();
   }
 
-  add() {
-    throw new Error('Remove this statement and implement this function');
-  }
-
-  grade() {
-    throw new Error('Remove this statement and implement this function');
+  grade(grade) {
+    if (this._rosters[grade]) {
+      return [...this._rosters[grade]];
+    } else {
+      return [];
+    }
+    
   }
 }
