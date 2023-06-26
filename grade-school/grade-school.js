@@ -21,11 +21,13 @@ export class GradeSchool {
   }
 
   grade(grade) {
-    if (this._rosters[grade]) {
-      return [...this._rosters[grade]];
-    } else {
-      return [];
+  if (this._rosters[grade]) {
+    const names = this._rosters[grade];
+    if (names.length > 1) {
+      return [...names];
     }
-    
   }
+  return [];
+}
+
 }
