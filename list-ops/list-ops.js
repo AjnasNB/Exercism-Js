@@ -4,12 +4,12 @@
 //
 
 export class List {
-  constructor() {
-    throw new Error('Remove this statement and implement this function');
+  constructor(list1,list2) {
+     this.lists = lists;
   }
 
   append() {
-    throw new Error('Remove this statement and implement this function');
+    
   }
 
   concat() {
